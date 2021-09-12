@@ -50,5 +50,5 @@ class Pythagore:
             else: 
                 print("the triangle is not right-angled")
                 
-''' UwU '''
+# ^><^
 
