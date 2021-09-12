@@ -1,7 +1,7 @@
 """
 Basic modoule that allows to get values using pythagorean theorem 
 
-pythagoras's formula :  A^2 + B^2 = C  ^^
+pythagoras's formula :  A^2 + B^2 = C^2  ^^
  
 --------------------
 
