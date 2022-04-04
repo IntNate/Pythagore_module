@@ -1,7 +1,7 @@
 """
-Basic modoule that allows to get values using pythagorean theorem 
+Basic module that allows to get values using pythagorean theorem 
 
-pythagoras's formula :  A^2 + B^2 = C^2  ^^
+pythagoras's formula :  A^2 + B^2 = C^2
  
 --------------------
 
@@ -67,7 +67,7 @@ class Pythagore:
     
     def check(self):
         '''
-    this function allows you to check if the triangle is right-angled, all the values ​​are needed for it to work'''
+    this function checks if the triangle is right-angled, all the values ​​are needed for it to work'''
         list_sides = [self.hypo, self.b, self.c]
         if list_sides.count(None) >= 1:
             print("Error : not enougth values, all value are required")
